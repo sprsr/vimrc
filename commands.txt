@@ -1,0 +1,9 @@
+
+# Shortcuts
+gg=G : Auto indent entire file
+ggvG : Select Entire fileeeeeee
+>i{  : Right Shift Current Block
+=a{  : Properly Indent Current Block
+
+# Commands
+:set cindent  : Indentation Mode
